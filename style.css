@@ -1,0 +1,11 @@
+.class{
+color:blueviolet;
+}
+.classs{
+background-color:rgb(0, 0, 0);
+border:3px outset purple;
+}
+.classs:hover{
+background-color:aquamarine;
+border:3px inset blue;
+}
